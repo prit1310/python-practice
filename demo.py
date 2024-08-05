@@ -27,6 +27,7 @@ import string
 pass_len = 6
 charVal = string.ascii_letters + string.digits + string.punctuation
 
+#extra logic for password creation
 # password = ""
 # for i in range(pass_len):
 #     password +=random.choice(charVal)
